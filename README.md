@@ -1,18 +1,3 @@
-<!--
-**zhanghang1989/zhanghang1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p> 
   <a href="https://github.com/zhanghang1989?tab=followers"> <img src="https://img.shields.io/github/followers/zhanghang1989?label=Followers" height="25px" alt="github follow" /> </a>
   <a href="https://hangzhang.org/"> <img src="https://img.shields.io/badge/homepage-3875B7.svg?&style=for-the-badge" height="25px" alt="Hang Zhang">
@@ -23,3 +8,32 @@ Here are some ideas to get you started:
   <a href="./cvHangZhang/cvHangZhang.pdf"> <img src="https://img.shields.io/badge/-CV-black" height="25px"> </a>
 </p> 
 
+<table width="100%" border="0" cellspacing="15" cellpadding="0">
+<tbody>
+  <tr>
+    <td width="20%">
+        <a href="https://hangzhang.org/files/Hang.jpeg"><img alt="Hang Zhang" src="https://hangzhang.org/files/Hang.jpeg" width="160" border="1"></a>
+    </td>
+    <td>
+    <p> 
+        I am Hang Zhang    (<span lang="zh-cn">张航</span>), 
+        an Applied Scientist at <span property="affiliation">Amazon</span>, 
+        developing state-of-the-art algorithms for computer vision. 
+        I received my PhD 
+        at <a href="http://www.rutgers.edu/">Rutgers University</a> in 2017,
+        advised by <a href="http://eceweb1.rutgers.edu/vision/dana.html"> Prof. Kristin Dana</a>. 
+        I recieved my bachelor degree at 
+        <a href="http://www.seu.edu.cn/english/main.htm"> Southeast University 
+        (Nanjing, China)</a> in 2013. <br>
+        I am enthusiastic in contributing to open source projects. 
+        I am the designer and creator for 
+        <a href="https://github.com/awslabs/autogluon/graphs/contributors?from=2019-05-04&to=2020-02-01&type=c">AutoGluon Toolkit</a> and
+        <a href="https://github.com/zhanghang1989/PyTorch-Encoding">PyTorch Encoding Toolkit</a>. 
+        I am also a co-creator for <a href="https://github.com/dmlc/gluon-cv/">GluonCV Toolkit</a> and 
+        contribute frequently to
+        <a href="https://github.com/apache/incubator-mxnet/pulls?q=is%3Apr+author%3Azhanghang1989+">Apache MXNet</a>.
+    </p>
+    </td>
+   </tr>
+</tbody>
+</table>

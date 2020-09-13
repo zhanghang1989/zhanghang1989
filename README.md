@@ -5,7 +5,7 @@
   <a href="mailto:zhang.hang@rutgers.edu"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="25px" alt="Email">
   <a href="https://www.linkedin.com/in/zhanghang0704/"><img src="https://img.shields.io/badge/linkedin-006CAC.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"> </a>
   <a href="https://www.zhihu.com/people/zhanghang0704"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=social&style=for-the-badge&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
-  <a href="./cvHangZhang/cvHangZhang.pdf"> <img src="https://img.shields.io/badge/-CV-black" height="25px"> </a>
+  <a href="https://hangzhang.org/cvHangZhang/cvHangZhang.pdf"> <img src="https://img.shields.io/badge/-CV-black" height="25px"> </a>
 </p> 
 
 <table width="100%" border="0" cellspacing="15" cellpadding="0">

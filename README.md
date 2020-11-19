@@ -16,9 +16,8 @@
     </td>
     <td>
     <p> 
-        I am Hang Zhang    (<span lang="zh-cn">张航</span>), 
-        an Applied Scientist at <span property="affiliation">Amazon</span>, 
-        developing state-of-the-art algorithms for computer vision. 
+        I am Hang Zhang    (<span lang="zh-cn">张航</span>), a Research Scientist at Facebook.
+        Previously, I worked as an Applied Scientist at <span property="affiliation">Amazon</span> for 3 years.
         I received my PhD 
         at <a href="http://www.rutgers.edu/">Rutgers University</a> in 2017,
         advised by <a href="http://eceweb1.rutgers.edu/vision/dana.html"> Prof. Kristin Dana</a>. 

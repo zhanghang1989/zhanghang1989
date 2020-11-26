@@ -11,7 +11,7 @@
 <table width="100%" border="0" cellspacing="15" cellpadding="0">
 <tbody>
   <tr>
-    <td width="20%">
+    <td width="15%">
         <a href="https://hangzhang.org/files/Hang.jpeg"><img alt="Hang Zhang" src="https://hangzhang.org/files/Hang.jpeg" width="160" border="1"></a>
     </td>
     <td>
@@ -24,14 +24,10 @@
         I recieved my bachelor degree at 
         <a href="http://www.seu.edu.cn/english/main.htm"> Southeast University 
         (Nanjing, China)</a> in 2013. <br>
-        I am enthusiastic in contributing to open source projects. 
-        I am the designer and creator for 
-        <a href="https://github.com/awslabs/autogluon/graphs/contributors?from=2019-05-04&to=2020-02-01&type=c">AutoGluon Toolkit</a> and
-        <a href="https://github.com/zhanghang1989/PyTorch-Encoding">PyTorch Encoding Toolkit</a>. 
-        I am also a co-creator for <a href="https://github.com/dmlc/gluon-cv/">GluonCV Toolkit</a> and 
-        contribute frequently to
-        <a href="https://github.com/apache/incubator-mxnet/pulls?q=is%3Apr+author%3Azhanghang1989+">Apache MXNet</a>.
     </p>
+    </td>
+    <td width="40%">
+        <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=zhanghang1989&show_icons=true&include_all_commits=true&count_private=true" alt="zhanghang1989" /> </p>
     </td>
    </tr>
 </tbody>

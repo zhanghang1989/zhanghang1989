@@ -16,10 +16,10 @@
     </td>
     <td>
     <p> 
-        I am Hang Zhang    (<span lang="zh-cn">张航</span>), a Research Scientist at Facebook.
-        Previously, I worked as an Applied Scientist at <span property="affiliation">Amazon</span> for 3 years.
-        I received my PhD 
-        at <a href="http://www.rutgers.edu/">Rutgers University</a> in 2017,
+        I am Hang Zhang  (<span lang="zh-cn">张航</span>), a <span property="tittle">Research Scientist<span> 
+        at <span property="affiliation">Facebook</span>.
+        Before joining FB, I also worked/interned with Amazon and NVIDIA. 
+        I received my PhD at <a href="http://www.rutgers.edu/">Rutgers University</a> in 2017,
         advised by <a href="http://eceweb1.rutgers.edu/vision/dana.html"> Prof. Kristin Dana</a>. 
         I recieved my bachelor degree at 
         <a href="http://www.seu.edu.cn/english/main.htm"> Southeast University 

@@ -26,7 +26,7 @@
         (Nanjing, China)</a> in 2013. <br>
     </p>
     </td>
-    <td width="40%">
+    <td width="45%">
         <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=zhanghang1989&show_icons=true&include_all_commits=true&count_private=true" alt="zhanghang1989" /> </p>
     </td>
    </tr>

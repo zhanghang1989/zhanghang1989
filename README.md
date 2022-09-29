@@ -16,9 +16,9 @@
     </td>
     <td>
     <p> 
-        I am Hang Zhang  (<span lang="zh-cn">张航</span>), a <span property="tittle">Research Scientist<span> 
-        at <span property="affiliation">Facebook</span>.
-        Before joining FB, I also worked/interned with Amazon and NVIDIA. 
+        I am Hang Zhang  (<span lang="zh-cn">张航</span>), a <span property="tittle">Staff Applied Research Scientist<span> 
+        at <span property="affiliation">Cruise</span>.
+        Before joining Cruise, I also worked/interned at Meta, Amazon and NVIDIA. 
         I received my PhD at <a href="http://www.rutgers.edu/">Rutgers University</a> in 2017,
         advised by <a href="http://eceweb1.rutgers.edu/vision/dana.html"> Prof. Kristin Dana</a>. 
         I recieved my bachelor degree at 

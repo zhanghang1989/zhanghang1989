@@ -21,7 +21,7 @@
         Before joining Cruise, I also worked/interned at Meta, Amazon and NVIDIA. 
         I received my PhD at <a href="http://www.rutgers.edu/">Rutgers University</a> in 2017,
         advised by <a href="http://eceweb1.rutgers.edu/vision/dana.html"> Prof. Kristin Dana</a>. 
-        I recieved my bachelor degree at 
+        I received my bachelor degree at 
         <a href="http://www.seu.edu.cn/english/main.htm"> Southeast University 
         (Nanjing, China)</a> in 2013. <br>
     </p>

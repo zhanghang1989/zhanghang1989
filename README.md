@@ -16,7 +16,7 @@
     </td>
     <td>
     <p> 
-        I am Hang Zhang  (<span lang="zh-cn">张航</span>), a <span property="tittle">Staff Applied Research Scientist<span> 
+        I am Hang Zhang  (<span lang="zh-cn">张航</span>), a <span property="tittle">Senior Staff Applied Research Scientist<span> 
         at <span property="affiliation">Cruise</span>.
         Before joining Cruise, I also worked/interned at Meta, Amazon and NVIDIA. 
         I received my PhD at <a href="http://www.rutgers.edu/">Rutgers University</a> in 2017,

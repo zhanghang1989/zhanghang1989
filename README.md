@@ -16,11 +16,11 @@
     </td>
     <td>
     <p> 
-        I am <span property="name">Hang Zhang</span> (<span lang="zh-cn">张航</span>), Senior Principal Engineer and Senior Director at <a href="https://www.xpeng.com/">XPeng</a>, where I lead the VLA Foundation Model Team. We build XPeng VLA 2.0 &mdash; the pure-vision, end-to-end model that drives XPeng's production cars across 300+ cities in China, our overseas vehicles, and our Robotaxi fleet. Most recently I designed Infini VLA, a streaming VLA architecture that treats driving as a long-sequence problem so the model can remember across time without extra compute in the car. Before XPeng, I spent nine years in industry research at Cruise, Meta, and Amazon AI, working on perception for autonomous driving, hardware-aware neural architecture optimization, and open-source computer vision. Named a <a href="https://t.cj.sina.com.cn/articles/view/1237074602/49bc42aa02002swb2">Top 50 Intelligent Driving Developer in China</a> (2025). My research has 12,000+ citations on <a href="https://scholar.google.com/citations?user=gCoWdkUAAAAJ">Google Scholar</a> and my open-source work has 10,000+ <a href="https://github.com/zhanghang1989">GitHub stars</a>. <br>
+        I am <span property="name">Hang Zhang</span> (<span lang="zh-cn">张航</span>), Senior Principal Engineer and Senior Director at <a href="https://www.xpeng.com/">XPeng</a>, leading the VLA Foundation Model Team behind XPeng VLA 2.0 &mdash; the pure-vision, end-to-end model driving XPeng's production cars, overseas vehicles, and Robotaxi fleet. Previously nine years in industry research at Cruise, Meta, and Amazon AI. 12,000+ <a href="https://scholar.google.com/citations?user=gCoWdkUAAAAJ">citations</a>, 10,000+ <a href="https://github.com/zhanghang1989">GitHub stars</a>. <br>
     </p>
     </td>
     <td width="45%">
-        <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=zhanghang1989&show_icons=true&include_all_commits=true&count_private=true" alt="zhanghang1989" /> </p>
+        <p align="left"> <img src="https://github-readme-stats-hang-9ab1.vercel.app/api?username=zhanghang1989&show_icons=true" alt="zhanghang1989" /> </p>
     </td>
    </tr>
 </tbody>

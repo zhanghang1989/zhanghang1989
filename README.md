@@ -16,14 +16,7 @@
     </td>
     <td>
     <p> 
-        I am Hang Zhang  (<span lang="zh-cn">张航</span>), a <span property="tittle">Senior Staff Applied Research Scientist<span> 
-        at <span property="affiliation">Cruise</span>.
-        Before joining Cruise, I also worked/interned at Meta, Amazon and NVIDIA. 
-        I received my PhD at <a href="http://www.rutgers.edu/">Rutgers University</a> in 2017,
-        advised by <a href="https://eceweb1.rutgers.edu/~kdana/"> Prof. Kristin Dana</a>. 
-        I received my bachelor degree at 
-        <a href="http://www.seu.edu.cn/english/main.htm"> Southeast University 
-        (Nanjing, China)</a> in 2013. <br>
+        I am <span property="name">Hang Zhang</span> (<span lang="zh-cn">张航</span>), Senior Principal Engineer and Senior Director at <a href="https://www.xpeng.com/">XPeng</a>, where I lead the VLA Foundation Model Team. We build XPeng VLA 2.0 &mdash; the pure-vision, end-to-end model that drives XPeng's production cars across 300+ cities in China, our overseas vehicles, and our Robotaxi fleet. Most recently I designed Infini VLA, a streaming VLA architecture that treats driving as a long-sequence problem so the model can remember across time without extra compute in the car. Before XPeng, I spent nine years in industry research at Cruise, Meta, and Amazon AI, working on perception for autonomous driving, hardware-aware neural architecture optimization, and open-source computer vision. Named a <a href="https://t.cj.sina.com.cn/articles/view/1237074602/49bc42aa02002swb2">Top 50 Intelligent Driving Developer in China</a> (2025). My research has 12,000+ citations on <a href="https://scholar.google.com/citations?user=gCoWdkUAAAAJ">Google Scholar</a> and my open-source work has 10,000+ <a href="https://github.com/zhanghang1989">GitHub stars</a>. <br>
     </p>
     </td>
     <td width="45%">
